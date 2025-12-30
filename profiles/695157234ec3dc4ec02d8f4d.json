@@ -65,7 +65,7 @@
           "Maximum": 100
         },
         "Energy": {
-          "Current": 75,
+          "Current": 111,
           "Maximum": 111
         },
         "Temperature": {
@@ -117,7 +117,7 @@
             }
           }
         },
-        "UpdateTime": 1767090942,
+        "UpdateTime": 1767094831,
         "Immortal": false
       },
       "Inventory": {
@@ -15897,23 +15897,6 @@
               "SpawnedInSession": true,
               "Resource": {
                 "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "695242adb726d05d7c0e6b96",
-            "_tpl": "5c94bbff86f7747ee735c08f",
-            "parentId": "12291039183574809160d527",
-            "slotId": "main",
-            "location": {
-              "x": 1,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Key": {
-                "NumberOfUsages": 0
               }
             }
           },
@@ -40871,23 +40854,6 @@
             }
           },
           {
-            "_id": "6953a4b508f38b6f1058456a",
-            "_tpl": "57347d692459774491567cf1",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 118,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "FoodDrink": {
-                "HpPercent": 1
-              }
-            }
-          },
-          {
             "_id": "6953a4b508f38b6f10584628",
             "_tpl": "6176aca650224f204c1da3fb",
             "parentId": "664113fa049fd2369707c4eb",
@@ -41111,23 +41077,6 @@
             }
           },
           {
-            "_id": "6953a4b508f38b6f10584684",
-            "_tpl": "5bc9b156d4351e00367fbce9",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 6,
-              "y": 118,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "FoodDrink": {
-                "HpPercent": 100
-              }
-            }
-          },
-          {
             "_id": "6953a4b508f38b6f1058452c",
             "_tpl": "655c67782a1356436041c9c5",
             "parentId": "664113fa049fd2369707c4eb",
@@ -41173,23 +41122,6 @@
             },
             "upd": {
               "SpawnedInSession": true
-            }
-          },
-          {
-            "_id": "6953a4b508f38b6f105845f1",
-            "_tpl": "656df4fec921ad01000481a2",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 5,
-              "y": 118,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "FoodDrink": {
-                "HpPercent": 1
-              }
             }
           },
           {
@@ -42598,6 +42530,21 @@
           {
             "_id": "664113fa049fd2369707c4ec",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6953ba61e212f66c3423e420",
+            "_tpl": "5c94bbff86f7747ee735c08f",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 118,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "6951576e4ec3dc4ec02d8f4f",
@@ -48792,7 +48739,7 @@
         "66742f90653d4d410e6908ea": {
           "id": "66742f90653d4d410e6908ea",
           "type": "HandoverItem",
-          "value": 0,
+          "value": 1,
           "sourceId": "6672ec2a2b6f3b71be794cc5"
         },
         "6667193a41b0135d2df10fd9": {
@@ -49116,13 +49063,13 @@
         "67570c1dd37fe94e53828e73": {
           "id": "67570c1dd37fe94e53828e73",
           "type": "HandoverItem",
-          "value": 0,
+          "value": 1,
           "sourceId": "675031be899713ccad00060c"
         },
         "67570c2cb9a6467518160e50": {
           "id": "67570c2cb9a6467518160e50",
           "type": "HandoverItem",
-          "value": 0,
+          "value": 1,
           "sourceId": "675031be899713ccad00060c"
         },
         "67570c3d9453e3c86deaed51": {
@@ -49470,7 +49417,7 @@
         "5d24bb4886f77439c92d6bad": {
           "id": "5d24bb4886f77439c92d6bad",
           "type": "HandoverItem",
-          "value": 1,
+          "value": 2,
           "sourceId": "5d24b81486f77439c92d6ba8"
         },
         "5d24bb7286f7741f7956be74": {
@@ -50006,9 +49953,9 @@
                 }
               }
             ],
-            "Progress": 3190,
+            "Progress": 14898,
             "inProgress": true,
-            "StartTimestamp": 1767091094,
+            "StartTimestamp": 1767094972,
             "SkipTime": 0,
             "ProductionTime": 145000,
             "GivenItemsInStart": [],
@@ -50019,7 +49966,7 @@
           },
           "5d5589c1f934db045e6c5492": {
             "Products": [],
-            "Progress": 6110,
+            "Progress": 9847,
             "inProgress": true,
             "StartTimestamp": 1767084988,
             "SkipTime": 0,
@@ -50034,7 +49981,7 @@
           },
           "5d5c1fd4d582a500650132f0": {
             "Products": [],
-            "Progress": 6110,
+            "Progress": 6875,
             "inProgress": true,
             "StartTimestamp": 1767084985,
             "SkipTime": 0,
@@ -50120,8 +50067,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 65.2878,
-                        "UnitsConsumed": 4.7122
+                        "Value": 64.0086,
+                        "UnitsConsumed": 5.9914
                       }
                     }
                   }
@@ -50257,8 +50204,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 5.525,
-                        "UnitsConsumed": 4.475
+                        "Value": 0.858,
+                        "UnitsConsumed": 9.142
                       }
                     }
                   }
@@ -51235,7 +51182,7 @@
         "MannequinPoses": {
           "122908465578791149508b38": "67604a9a8491fd0a830f3576"
         },
-        "sptUpdateLastRunTimestamp": 1767091094,
+        "sptUpdateLastRunTimestamp": 1767094972,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "683dc6c1baa42e2bb4024922",
@@ -55775,16 +55722,14 @@
         },
         {
           "qid": "666314b696a9349baa021bac",
-          "startTime": 0,
-          "status": 1,
+          "startTime": 1767094881,
+          "status": 2,
           "statusTimers": {
-            "4": 1766980197,
             "0": 1766980197,
-            "1": 1767084957.323
+            "1": 1767084957.323,
+            "2": 1767094881
           },
-          "completedConditions": [
-            "667abe4bf4179cecd79b7a6b"
-          ],
+          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -56262,16 +56207,14 @@
         },
         {
           "qid": "67040b3d10b18d153a08f636",
-          "startTime": 0,
-          "status": 1,
+          "startTime": 1767094865,
+          "status": 2,
           "statusTimers": {
-            "4": 1766980197,
             "0": 1766980197,
-            "1": 1767084957.324
+            "1": 1767084957.324,
+            "2": 1767094865
           },
-          "completedConditions": [
-            "67040f74d45f432319b16703"
-          ],
+          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -56387,16 +56330,14 @@
         },
         {
           "qid": "67190febcce4a5fdf605d4f8",
-          "startTime": 0,
-          "status": 1,
+          "startTime": 1767094890,
+          "status": 2,
           "statusTimers": {
-            "4": 1766980197,
             "0": 1766980197,
-            "1": 1767084957.3249998
+            "1": 1767084957.3249998,
+            "2": 1767094890
           },
-          "completedConditions": [
-            "67190febcce4a5fdf605d4fa"
-          ],
+          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -56415,16 +56356,14 @@
         },
         {
           "qid": "671910d5dbd4354ac10e9784",
-          "startTime": 0,
-          "status": 1,
+          "startTime": 1767094869,
+          "status": 2,
           "statusTimers": {
-            "4": 1766980197,
             "0": 1766980197,
-            "1": 1767084957.3249998
+            "1": 1767084957.3249998,
+            "2": 1767094869
           },
-          "completedConditions": [
-            "671910d5dbd4354ac10e9786"
-          ],
+          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -66362,7 +66301,7 @@
   "dialogues": {
     "5a7c2eca46aef81a7ca2145d": {
       "attachmentsNew": 0,
-      "new": 2,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -67688,6 +67627,17 @@
             "time": "09:54",
             "location": "lighthouse"
           }
+        },
+        {
+          "_id": "6953ba6ae212f66c3423e421",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 10,
+          "dt": 1767094890,
+          "templateId": "67190febcce4a5fdf605d4f8 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -67771,13 +67721,28 @@
             "data": []
           },
           "maxStorageTime": 259200
+        },
+        {
+          "_id": "6953ba61e212f66c3423e41e",
+          "uid": "54cb57776803fa99248b456e",
+          "type": 10,
+          "dt": 1767094881,
+          "templateId": "666314b696a9349baa021bac description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6953ba61e212f66c3423e41f",
+            "data": []
+          },
+          "maxStorageTime": 259200
         }
       ],
       "_id": "54cb57776803fa99248b456e"
     },
     "579dc571d53a0658a154fbec": {
       "attachmentsNew": 0,
-      "new": 2,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -68402,6 +68367,28 @@
           "hasRewards": false,
           "rewardCollected": false,
           "items": {}
+        },
+        {
+          "_id": "6953ba51e212f66c3423e41b",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1767094865,
+          "templateId": "67040b3d10b18d153a08f636 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6953ba55e212f66c3423e41c",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1767094869,
+          "templateId": "671910d5dbd4354ac10e9784 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
         }
       ],
       "_id": "5c0647fdd443bc2504c2d371"
@@ -68610,7 +68597,7 @@
     },
     "69539a1a08f38b6f1055f7ef": {
       "attachmentsNew": 0,
-      "new": 1,
+      "new": 0,
       "type": 1,
       "Users": [
         {
@@ -68755,6 +68742,25 @@
         "version": "1.0.0",
         "author": "EpicRangeTime",
         "dateAdded": 1767084941
+      },
+      {
+        "name": "Epic Shaders",
+        "version": "1.0.1",
+        "author": "EpicRangeTime",
+        "dateAdded": 1767094831
+      },
+      {
+        "name": "IncreaseClimbHeight",
+        "version": "2.0.0",
+        "author": "redlaser42",
+        "dateAdded": 1767094831
+      },
+      {
+        "name": "UI Fixes",
+        "version": "5.1.1",
+        "author": "Tyfon",
+        "dateAdded": 1767094831,
+        "url": "https://github.com/tyfon7/uifixes"
       }
     ],
     "receivedGifts": [
