@@ -20,7 +20,7 @@
         "LowerNickname": "ilphrakdoghym",
         "Side": "Bear",
         "Level": 54,
-        "Experience": 7151069,
+        "Experience": 7151079,
         "RegistrationDate": 1767095200,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1767680682,
+        "UpdateTime": 1767690461,
         "Immortal": false
       },
       "Inventory": {
@@ -25849,8 +25849,13 @@
           {
             "_id": "695a3976b005d34c54cbbfd1",
             "_tpl": "68d6b3568f9527c33609ce83",
-            "parentId": "6953bba07d4ef4635834d05a",
-            "slotId": "Eyewear"
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 25,
+              "r": "Horizontal"
+            }
           },
           {
             "_id": "6957b0282a7c3428c878a3af",
@@ -27657,7 +27662,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 715274,
+              "StackObjectsCount": 715273,
               "SpawnedInSession": false
             }
           },
@@ -28128,6 +28133,32 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "695cd11be2f50363d0259a2f",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 18,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "695cd2b5e2f50363d025ae5f",
+            "_tpl": "68beded9233f2c935b0eda04",
+            "parentId": "6953bba07d4ef4635834d05a",
+            "slotId": "Eyewear",
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
           }
         ],
         "equipment": "6953bba07d4ef4635834d05a",
@@ -28216,8 +28247,8 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767523851,
+            "PointsEarnedDuringSession": 0.05,
+            "LastAccess": 1767690874,
             "Id": "Intellect",
             "Progress": 5100
           },
@@ -32387,7 +32418,8 @@
         "5d80c66d86f774405611c7d6": false,
         "67d41936f378a36c4706eeb9": false,
         "67dc212493ce32834b0fa446": false,
-        "67dc2648ba5b79876906a166": false
+        "67dc2648ba5b79876906a166": false,
+        "689b3fffa1295e322207a677": false
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -34997,9 +35029,9 @@
           },
           "5d5c205bd582a50d042a3c0e": {
             "Products": [],
-            "Progress": 133460,
+            "Progress": 20714,
             "inProgress": true,
-            "StartTimestamp": 1767680808,
+            "StartTimestamp": 1767691495,
             "SkipTime": 0,
             "ProductionTime": 145000,
             "GivenItemsInStart": [],
@@ -35069,8 +35101,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 28.1397,
-                        "UnitsConsumed": 1.8603
+                        "Value": 24.6144,
+                        "UnitsConsumed": 5.3856
                       }
                     }
                   }
@@ -36175,7 +36207,7 @@
         "HideoutCounters": null,
         "Seed": "ae6080c689e0567607a35ee23ed47a36",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767680808,
+        "sptUpdateLastRunTimestamp": 1767691495,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
@@ -40990,7 +41022,7 @@
         },
         "68f98298939080194f060927": {
           "loyaltyLevel": 1,
-          "salesSum": 58551843,
+          "salesSum": 58551844,
           "standing": 0.2,
           "nextResupply": 1767101230,
           "unlocked": true,
@@ -43146,7 +43178,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 3,
-        "Experience": 8903,
+        "Experience": 8913,
         "RegistrationDate": 1767095200,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -44703,7 +44735,8 @@
         "5d80c66d86f774405611c7d6": false,
         "67d41936f378a36c4706eeb9": false,
         "67dc212493ce32834b0fa446": false,
-        "67dc2648ba5b79876906a166": false
+        "67dc2648ba5b79876906a166": false,
+        "689b3fffa1295e322207a677": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -57444,10 +57477,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69576a67b11fbc2324622b79",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "31.12.2025",
