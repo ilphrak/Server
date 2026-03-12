@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1773320447,
+        "UpdateTime": 1773328016,
         "Immortal": false
       },
       "Inventory": {
@@ -37592,8 +37592,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 53.1007,
-                        "UnitsConsumed": 6.8993
+                        "Value": 50.7109,
+                        "UnitsConsumed": 9.2891
                       }
                     }
                   }
@@ -38680,7 +38680,7 @@
         "HideoutCounters": null,
         "Seed": "ae6080c689e0567607a35ee23ed47a36",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1773320957,
+        "sptUpdateLastRunTimestamp": 1773328202,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
